@@ -1,0 +1,13 @@
+﻿  Human.cpp
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(25,34): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(28,34): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(28,29): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(29,34): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(30,34): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(30,24): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(31,34): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(35,34): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(35,24): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(36,34): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\Human\Human.cpp(36,29): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+  Human.vcxproj -> C:\Users\RayanService\Desktop\github repository\ComputerGraphicsDirectX12Codes\Project\x64\Debug\Human.exe
