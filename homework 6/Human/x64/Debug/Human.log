@@ -1,0 +1,23 @@
+﻿  d3dUtility.cpp
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\d3dUtility.cpp(147,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  human.cpp
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(66,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(69,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(69,30): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(70,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(71,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(71,25): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(72,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(76,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(76,25): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(77,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(77,30): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(210,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(211,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(212,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(214,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(215,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(216,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Users\RayanService\Desktop\New folder (2)\homework 6\x64\Debug\Human.exe not found or not built by the last incremental link; performing full link
+  Human.vcxproj -> C:\Users\RayanService\Desktop\New folder (2)\homework 6\x64\Debug\Human.exe
