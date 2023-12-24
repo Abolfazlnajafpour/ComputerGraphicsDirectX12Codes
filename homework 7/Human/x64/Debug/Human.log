@@ -1,0 +1,32 @@
+﻿  human.cpp
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(144,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(147,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(147,30): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(148,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(149,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(149,25): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(150,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(154,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(154,25): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(155,35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(155,30): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(193,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(194,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(195,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(196,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(290,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(291,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(292,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(294,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(295,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(296,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(346,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(349,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(352,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(355,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(371,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(373,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(382,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(384,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\RayanService\Desktop\New folder (2)\homework 6\Human\human.cpp(570,6): warning C4101: 'object_index': unreferenced local variable
+  Human.vcxproj -> C:\Users\RayanService\Desktop\New folder (2)\homework 6\x64\Debug\Human.exe
